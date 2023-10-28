@@ -1,0 +1,71 @@
+,,,,
+Weather Analysis,,,,
+,,,,
+,,,,
+Humidity Analysis,,,,
+,,,,
+Relative Humidity Trends,,Geographic Comparisons,,Precipitation Analysis
+"Hourly Trends
+Daily Trends
+Monthly Trends
+Seasonal Trends",,"US
+Canada
+Israel",,"Low Humidity & Low Temperature - lower likelihood of precipitation.
+High Humidity & Moderate Temperature - leads to overcast or cloudy conditions.
+Low Humidity & High Temperature - minimal chances of precipitation.
+High Humidity & High Temperature - muggy and uncomfortable conditions
+Rapid Temperature Drop - result in freezing rain or sleet."
+,,,,
+,,,,
+Pressure Analysis,,,,
+,,,,
+Seasonal Variation,,Altitude and Pressure,,Weather Pattern Analysis
+"Summer
+Winter
+Autumn
+Spring",,"Low Altitude - High
+High Altitude - Low
+Mid-Altitude - Close to baseline",,"High Pressure System (1015 hPa to 1030 hPa) - Clear skies, dry and stable weather, light winds, and reduced precipitation.
+Low-Pressure System (990 hPa to 1010 hPa ) - Cloudy skies, precipitation, strong winds, and the potential for stormy weather.
+Cold Front (3 to 7 hPa or more over a few hours) - hunderstorms, heavy rainfall, strong winds, and a drop in temperature.
+Warm Front (1 to 3 hPa or less per hour) -  overcast skies, drizzle, light to moderate rainfall, and a slow increase in temperature.
+Stationary Front (less than 3 hPa over a short time period) - overcast skies, drizzle, light rain, and inconsistent winds."
+,,,,
+Temperature Analysis,,,,
+,,,,
+Seasonal Analysis,,Average Temperature Differences,,Moisture Holding Capacity
+"Summer
+Winter
+Autumn
+Spring",,?T = ? (T1 - T2) / n,,"Dew Point Temperature - Higher dew point temperatures indicate more moisture in the air.
+Relative Humidity - Relative humidity values close to 100% indicate air that is nearly saturated, while values closer to 0% indicate very dry conditions. 
+Effect of Temperature on Humidity - Warmer air can hold more moisture than colder air."
+,,,,
+,,,,
+Weather Description Analysis,,,,
+,,,,
+Weather Severity Analysis,,Frequency and Occurrence Analysis,,Seasonal Patterns and Weather Description
+"Mild
+Moderate
+Severe",,Frequency Distribution (Histogram),, Seasonal variations in weather descriptions can be correlated with the calendar to identify when specific weather conditions are most prevalent. 
+,,,,
+Wind Direction Analysis,,,,
+,,,,
+Primary Wind Direction,,Prevailing Wind Direction,,Wind Speed Correlation
+"North - 0°
+East - 90°
+South - 180°
+West - 270°",,For understanding the dominant weather patterns in the area,,To gain a comprehensive understanding of the wind's behaviour.
+,,,,
+Wind Speed Analysis,,,,
+,,,,
+Wind Speed Distribution,,Time-Series Analysis,,Extreme Wind Event
+"Calm (0-1 knot)
+Light breeze (1-10 knots)
+Moderate wind (10-20 knots)
+Strong wind (20-30 knots)
+Gale-force wind (30-40 knots)
+Stormy conditions (40+ knots)",,"Trend
+Seasonality",,"Hurricanes
+Tornadoes
+Severe Storms"
